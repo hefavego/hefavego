@@ -1,3 +1,7 @@
+
+Hola, soy Hefavegotech 🖐️
+
+
 >🚀 Sobre mí
 
 Ingeniero Electrónico (Universidad Santiago de Cali), Especialista en Gestión de TIC (UMB) y Especialista Tecnológico en Gestión y Seguridad de Bases de Datos (SENA). Combino experiencia en soporte TI, redes e infraestructura con el desarrollo de aplicaciones web full stack e inteligencia artificial.
